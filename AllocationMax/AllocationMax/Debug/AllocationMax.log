@@ -1,0 +1,27 @@
+﻿  alloc.c
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(38,27): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(40,11): warning C4047: 'fonction' : les niveaux d'indirection de 'char *' et de 'int' sont différents
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(40,11): warning C4024: 'fgets' : types différents pour le paramètre formel et réel 1
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(140,20): warning C4013: 'strlen' non défini(e) ; extern retournant int pris par défaut
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(153,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(232,21): warning C4013: 'findLetter' non défini(e) ; extern retournant int pris par défaut
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(240,27): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(245,8): warning C4022: 'free' : incompatibilité de pointeur pour le paramètre réel 1
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(247,11): warning C4013: 'strncpy_s' non défini(e) ; extern retournant int pris par défaut
+  main.c
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(15,22): warning C4047: '=' : les niveaux d'indirection de 'char *' et de 'int' sont différents
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(18,23): warning C4047: '=' : les niveaux d'indirection de 'char *' et de 'int' sont différents
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(21,23): warning C4047: '=' : les niveaux d'indirection de 'char *' et de 'int' sont différents
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(11,9): warning C4101: 'score' : variable locale non référencée
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(9,11): warning C4101: 'name' : variable locale non référencée
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(12,9): warning C4101: 'ExtraTurn' : variable locale non référencée
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(13,9): warning C4101: 'win' : variable locale non référencée
+D:\Nouveau dossier\AllocationMax\AllocationMax\main.c(10,9): warning C4101: 'bank' : variable locale non référencée
+  Génération de code en cours...
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(64): warning C4716: 'numberOfPlayers' : doit retourner une valeur
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(45): error C4700: variable locale 'p1' non initialisée utilisée
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(48): error C4700: variable locale 'p2' non initialisée utilisée
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(51): error C4700: variable locale 'p3' non initialisée utilisée
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(54): error C4700: variable locale 'p4' non initialisée utilisée
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(57): error C4700: variable locale 'p5' non initialisée utilisée
+D:\Nouveau dossier\AllocationMax\AllocationMax\alloc.c(266): error C4700: variable locale 's' non initialisée utilisée
